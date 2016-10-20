@@ -1,2 +1,2 @@
 # spec-fe
-Frontend Development specification
+Frontend Development Specification
